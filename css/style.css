@@ -1336,3 +1336,13 @@ input[type="text"] {
   background-color: #371d6c;
   box-shadow: rgba(99, 99, 99, 0.5) 0px 5px 8px 0px;
 }
+
+
+@media (max-width:450px){
+  .fh5co-social-icons img{
+    width: 30px;
+  }
+  .skills div{
+    padding-bottom: 40px;
+  }
+}
