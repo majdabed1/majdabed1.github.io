@@ -1323,6 +1323,33 @@ input[type="text"] {
   margin: 0;
   padding: 0 10px;
 }
+.project-index {
+  padding: 20px 10px 0;
+  color: #ccc;
+}
+.project-index-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+}
+.project-index-list li {
+  margin: 0;
+}
+.project-index-list a {
+  color: #c770f0;
+  text-decoration: underline;
+}
+.project-block {
+  padding-top: 2rem;
+  padding-bottom: 2.5rem;
+}
+.project-gallery {
+  margin-top: 1.5rem;
+}
 .skills div{
   padding-bottom: 25px;
 }
